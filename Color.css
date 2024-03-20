@@ -1,0 +1,32 @@
+.button {
+  height: 100px;
+  width: 100px;
+  background-color: aqua;
+  margin: 5px;
+}
+
+.cntent {
+  visibility: hidden;
+  font-size: 20px;
+  color: red;
+  font-weight: 900;
+}
+
+#grey {
+  background-color: grey;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+#white {
+  background-color: white;
+}
+
+#blue {
+  background-color: blue;
+}
+#pink {
+  background-color: pink;
+}
